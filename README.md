@@ -1,2 +1,2 @@
 # WordPress
-All WordPress Code and different logics
+All WordPress Custom Code and logics
